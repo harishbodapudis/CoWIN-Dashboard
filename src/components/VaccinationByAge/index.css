@@ -1,0 +1,12 @@
+/* Write your CSS here */
+.vaccination-chart-container {
+  width: 100%;
+  margin: 10px auto;
+  background-color: #1c1c2b;
+  border-radius: 5px;
+  padding: 15px 15px;
+}
+.sub-heading {
+  color: #94a3b8;
+  font-size: 20px;
+}
